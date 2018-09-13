@@ -3,10 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="3fbaa031-a732-450e-9309-75d1aed3d9e3" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/js/html5shiv.js" afterPath="$PROJECT_DIR$/assets/js/html5shiv.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/js/particles.js" afterPath="$PROJECT_DIR$/assets/js/particles.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/js/respond.min.js" afterPath="$PROJECT_DIR$/assets/js/respond.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="wjmwjmwb.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -216,12 +212,20 @@
       <workItem from="1490698096808" duration="120000" />
       <workItem from="1490700019326" duration="403000" />
       <workItem from="1502963289813" duration="4766000" />
-      <workItem from="1517395630722" duration="609000" />
+      <workItem from="1517395630722" duration="846000" />
     </task>
+    <task id="LOCAL-00001" summary="add memeda">
+      <created>1517396303050</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1517396303050</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5898000" />
+    <option name="totallyTimeSpent" value="6135000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1280" y="-100" width="1920" height="1080" extended-state="0" />
@@ -270,6 +274,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add memeda" />
+    <option name="LAST_COMMIT_MESSAGE" value="add memeda" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
